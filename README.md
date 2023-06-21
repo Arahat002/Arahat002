@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Arahat 👋
 
-<!--
-**Arahat002/Arahat002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀💻
 
-Here are some ideas to get you started:
+## Tech Stack 💻🔧
+- Languages: C++, C#, Java, HTML, XML, PHP, JavaScript, SQL, Dart 🚀🌐
+- Tools: Unity3D, Android Studio, Visual Studio, Blender3D 🎮💡
+- Platforms: Windows, Android, Web, Linux, Arduino 🖥️🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 🚀🌟
+- AgroTech - Smart Farming using Conductive Textile 🌿🌱
+  - Tech: ESP32, C++, Android Studio, Java, XML, PHP, HTML, MySQL
+  - [Project Link](https://github.com/Arahat002/AgroTech/)
+
+## Connect with Me 🌐📱
+Feel free to reach out! Let's create magic with code and build extraordinary things. 😄🚀✨
+
+- Email: arahat002.ad@gmail.com ✉️📧
+
